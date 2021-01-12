@@ -1,8 +1,0 @@
-chatbot
-	train_tools
-	models
-		intent
-		ner
-	utils
-	config
-	test
